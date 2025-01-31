@@ -1,11 +1,11 @@
-R Programming Assignment
-Student Details
+# R Language Assignment
 
-Name: Shreya Sarwa
+## Student Details
+- **Name:** Shreya Sarwa
+- **Branch:** CSE (DS)
+- **Roll Number:** 300012823046
 
-Branch: CSE (Data Science)
+## Assignment Overview
+This repository contains the solution to the assignment given for the course on R Programming. The assignment focuses on [mention the core concepts or tasks of the assignment, e.g., data manipulation, statistical analysis, data visualization, etc.].
 
-Roll Number: 300012823046
-
-Project Overview
-This repository contains R programming assignments focusing on data analysis and visualization techniques. The assignments demonstrate understanding of fundamental R concepts and their practical applications in data science.
+  
